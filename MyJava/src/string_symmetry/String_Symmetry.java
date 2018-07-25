@@ -1,10 +1,9 @@
-package testCode;
+package string_symmetry;
 
-public class TestCode {
+public class String_Symmetry {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("HUYNH HOANG DONG");
 
 	}
 
